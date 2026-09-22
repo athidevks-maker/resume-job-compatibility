@@ -5,5 +5,4 @@ venv/
 env/
 .ipynb_checkpoints/
 *.pdf
-*.pdf
-!demo_resume_athidev.pdf
+!data/demo/demo_resume_athidev.pdf
